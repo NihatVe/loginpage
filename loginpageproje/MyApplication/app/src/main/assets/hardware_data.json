@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "Intel Core i9-13900K",
+    "category": "CPU",
+    "description": "24 çekirdekli, 32 iş parçacıklı üst seviye işlemci.",
+    "image": "cpu"
+  },
+  {
+    "id": 2,
+    "title": "AMD Ryzen 9 7950X",
+    "category": "CPU",
+    "description": "16 çekirdekli Zen 4 mimarisine sahip güçlü işlemci.",
+    "image": "cpu"
+  },
+  {
+    "id": 3,
+    "title": "Intel Core i7-12700K",
+    "category": "CPU",
+    "description": "Yüksek performanslı oyun ve iş amaçlı CPU.",
+    "image": "cpu"
+  },
+  {
+    "id": 4,
+    "title": "AMD Ryzen 7 7700X",
+    "category": "CPU",
+    "description": "8 çekirdekli güçlü orta seviye işlemci.",
+    "image": "cpu"
+  },
+  {
+    "id": 5,
+    "title": "Intel Core i5-13600K",
+    "category": "CPU",
+    "description": "Fiyat/performans oranı yüksek hibrit mimari işlemci.",
+    "image": "cpu"
+  },
+  {
+    "id": 6,
+    "title": "NVIDIA RTX 4090",
+    "category": "GPU",
+    "description": "24GB GDDR6X belleğe sahip en üst seviye ekran kartı.",
+    "image": "gpu"
+  },
+  {
+    "id": 7,
+    "title": "AMD Radeon RX 7900 XTX",
+    "category": "GPU",
+    "description": "Yüksek FPS performansı sunan RDNA3 mimarili kart.",
+    "image": "gpu"
+  },
+  {
+    "id": 8,
+    "title": "NVIDIA RTX 4080",
+    "category": "GPU",
+    "description": "16GB GDDR6X VRAM ile yüksek çözünürlükte oyun deneyimi.",
+    "image": "gpu"
+  },
+  {
+    "id": 9,
+    "title": "Intel Arc A770",
+    "category": "GPU",
+    "description": "Intel'in giriş seviyesi modern ekran kartı.",
+    "image": "gpu"
+  },
+  {
+    "id": 10,
+    "title": "NVIDIA RTX 4070 Ti",
+    "category": "GPU",
+    "description": "DLSS 3 ve ışın izleme destekli ekran kartı.",
+    "image": "gpu"
+  },
+  {
+    "id": 11,
+    "title": "Corsair Vengeance DDR5 32GB",
+    "category": "RAM",
+    "description": "6000MHz hızında yüksek performanslı DDR5 bellek.",
+    "image": "ram"
+  },
+  {
+    "id": 12,
+    "title": "G.Skill Trident Z5 RGB 32GB",
+    "category": "RAM",
+    "description": "Oyun için RGB destekli hızlı DDR5 kit.",
+    "image": "ram"
+  },
+  {
+    "id": 13,
+    "title": "Kingston Fury Beast DDR4 16GB",
+    "category": "RAM",
+    "description": "3200MHz hızında DDR4 bellek.",
+    "image": "ram"
+  },
+  {
+    "id": 14,
+    "title": "TEAMGROUP T-Force Delta RGB 16GB",
+    "category": "RAM",
+    "description": "Estetik görünüm sunan DDR4 RAM.",
+    "image": "ram"
+  },
+  {
+    "id": 15,
+    "title": "Patriot Viper Steel DDR4 32GB",
+    "category": "RAM",
+    "description": "Oyun ve iş istasyonları için yüksek kapasiteli RAM.",
+    "image": "ram"
+  },
+  {
+    "id": 16,
+    "title": "Samsung 980 PRO NVMe SSD 1TB",
+    "category": "SSD",
+    "description": "PCIe Gen4 teknolojili ultra hızlı SSD.",
+    "image": "ssd"
+  },
+  {
+    "id": 17,
+    "title": "WD Black SN850X 1TB",
+    "category": "SSD",
+    "description": "Yüksek performanslı PCIe Gen4 SSD.",
+    "image": "ssd"
+  },
+  {
+    "id": 18,
+    "title": "Crucial P5 Plus 1TB",
+    "category": "SSD",
+    "description": "Uygun fiyatlı ve hızlı Gen4 SSD.",
+    "image": "ssd"
+  },
+  {
+    "id": 19,
+    "title": "Kingston KC3000 2TB",
+    "category": "SSD",
+    "description": "Oyunlar için geniş kapasiteli SSD.",
+    "image": "ssd"
+  },
+  {
+    "id": 20,
+    "title": "ADATA XPG GAMMIX S70 Blade",
+    "category": "SSD",
+    "description": "Oyun sistemleri için yüksek hızlı SSD.",
+    "image": "ssd"
+  },
+  {
+    "id": 21,
+    "title": "Noctua NH-D15",
+    "category": "Cooler",
+    "description": "Sessiz, çift fanlı hava soğutma çözümü.",
+    "image": "cooler"
+  },
+  {
+    "id": 22,
+    "title": "Cooler Master Hyper 212",
+    "category": "Cooler",
+    "description": "Fiyat/performans odaklı hava soğutucu.",
+    "image": "cooler"
+  },
+  {
+    "id": 23,
+    "title": "be quiet! Dark Rock Pro 4",
+    "category": "Cooler",
+    "description": "Sessiz çalışan üst seviye hava soğutma.",
+    "image": "cooler"
+  },
+  {
+    "id": 24,
+    "title": "NZXT Kraken X63",
+    "category": "Cooler",
+    "description": "240mm sıvı soğutma sistemi.",
+    "image": "cooler"
+  },
+  {
+    "id": 25,
+    "title": "Corsair iCUE H100i Elite",
+    "category": "Cooler",
+    "description": "ARGB destekli sıvı soğutma kiti.",
+    "image": "cooler"
+  }
+]
